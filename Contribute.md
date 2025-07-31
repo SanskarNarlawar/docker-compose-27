@@ -4,7 +4,7 @@
 - Install dependencies(npm install)
 - Start the DB locally
 - Change the .env file and update your DB credentials
-- npx prisma migrate
+- npx prisma migrate dev
 - npx prisma generate
 - npm run build
 - npm run start
